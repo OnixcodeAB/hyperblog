@@ -1,5 +1,3 @@
-Hola mi nombre es abel
+# hyperblog
 
-Tengo 30 año, y estoy tomando el curso de Git Gihub
-Y Esta es una estare hablando de mi historia de vida y
-logros y dificultades
+Creación de un blog básico para el Curso de Git/GitHub
